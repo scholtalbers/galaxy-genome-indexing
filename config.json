@@ -1,0 +1,13 @@
+{
+    "INPUTS": {
+        "LONG_NAME": "S.pombe",
+        "DBKEY": "spombe29",
+        "FULL_NAME": "Schizosaccharomyces pombe",
+        "DOWNLOAD_URL": "ftp://ftp.ensemblgenomes.org/pub/current/fungi/fasta/schizosaccharomyces_pombe/dna/Schizosaccharomyces_pombe.ASM294v2.29.dna.genome.fa.gz"
+    },
+    "OUTPUTS": {
+        "GALAXY_ROOT": "/home/galaxy/galaxy-dist",
+        "INDICES_OUT": "/data/indices",
+        "GENOME_OUT": "/data/genome"
+    }
+}
